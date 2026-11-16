@@ -1,0 +1,29 @@
+{
+  "name": "English Learning Hub",
+  "short_name": "English Hub",
+  "description": "Programme d'anglais de A2 à C2 : 68 leçons de grammaire, 25 listes de vocabulaire, révisions espacées, dictées et prononciation.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f8",
+  "theme_color": "#151a2d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
