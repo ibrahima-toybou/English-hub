@@ -2,7 +2,7 @@
 
 Mon programme d'anglais personnel, du niveau **A2 au C2** : une leçon, des révisions et un peu de pratique chaque jour.
 
-- **Site** : https://ibrahima-toybou.github.io/english-hub/
+- **Site** : https://ibrahima-toybou.github.io/English-hub/
 - **Version Claude** (sauvegarde sur le compte, correction des textes par Claude) : https://claude.ai/artifact/Pm9UKhwEpDLUPfKgzRcu5x
 
 ## Contenu
